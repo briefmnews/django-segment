@@ -14,7 +14,7 @@ setup(
     license='MIT',
     packages=['segment'],
     install_requires=[
-        'analytics-python>=1.2.4',
+        'analytics-python>=1.3.0b1',
     ],
     zip_safe=False,
     include_package_data=True,
